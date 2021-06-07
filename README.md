@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silvanastreit
+- 👋 Hi, I’m @silvana
 - 👀 I’m interested  em UX Design
 - 🌱 I’m currently learning  sobre chatbots e front-end
 - 💞️ I’m looking to collaborate on jornadas de usuário, desenvolvimento de chatbots e aplicação de UX
